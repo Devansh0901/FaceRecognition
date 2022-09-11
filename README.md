@@ -8,6 +8,7 @@ save it.
 4 To get the image from server Javascript is used and attendance of person is marked automatically.
 
 Techbologies:
-1.Python
-2.PHP
-3.Javascript
+
+1. Python
+2. PHP
+3. Javascript
